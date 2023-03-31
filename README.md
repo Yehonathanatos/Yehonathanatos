@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text]([image_URL](https://static.seibertron.com/images/toys/uploads/1466773168-lg31-fort-max-03.jpg) "Image Title")
+![alt text]([image_URL](https://static.seibertron.com/images/toys/uploads/1466773168-lg31-fort-max-03.jpg) "Fortress Maximus!")
 
 # My Projects
 
