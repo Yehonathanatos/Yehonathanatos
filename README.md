@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![alt text]([image_URL](https://static.seibertron.com/images/toys/uploads/1466773168-lg31-fort-max-03.jpg) "Image Title")
+
 # My Projects
 
 I am currently working on several exciting projects, including a game, a website, and an app. These projects are built using various technologies such as Visual Studio Code, Pygame, PyOpenGL, Kivy, FastAPI, Panda, and pytest, as well as Machine Learning.
